@@ -12,9 +12,9 @@ public class basic_10_형변환 {
 		int cc = Integer.parseInt(stringToInt);
 		String dd = Integer.toString(intToString);
 		
-		System.out.printf("castingIntToDouble : %.3f\n", aa);
-		System.out.printf("castingDoubleToInt : %d\n", bb);
-		System.out.printf("castingStringToInt : %d\n", cc);
-		System.out.printf("castingIntToString : %s", dd);
+		System.out.printf("intToDouble : %.3f\n", aa);
+		System.out.printf("doubleToInt : %d\n", bb);
+		System.out.printf("stringToInt : %d\n", cc);
+		System.out.printf("intToString : %s", dd);
 	}
 }
