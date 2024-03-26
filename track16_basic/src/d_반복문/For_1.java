@@ -1,6 +1,6 @@
 package d_반복문;
 
-public class for_1 {
+public class For_1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
