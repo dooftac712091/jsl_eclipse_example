@@ -41,9 +41,6 @@ public class Array_4 {
 				searchArr[searchPoint++] = people[m];
 			}
 		}
-		
-		for(String n : searchArr) {
-			System.out.println(n);
-		}
+
 	}
 }
